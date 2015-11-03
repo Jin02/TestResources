@@ -1,0 +1,28 @@
+newmtl ceiling
+Kd 0.725 0.71 0.68
+d 0
+
+newmtl tallBox
+Kd 0.725 0.71 0.68
+d 0
+
+newmtl floor
+Kd 0.725 0.71 0.68
+d 0
+
+newmtl backWall
+Kd 0.725 0.71 0.68
+d 0
+
+newmtl rightWall
+Kd 0.14 0.45 0.091
+d 0
+
+newmtl leftWall
+Kd 0.63 0.065 0.05
+d 0
+
+newmtl shortBox
+Kd 0.725 0.71 0.68
+d 0
+
