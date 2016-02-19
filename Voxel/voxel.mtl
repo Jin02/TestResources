@@ -1,0 +1,24 @@
+newmtl x
+Kd 1 1 1
+d 0
+
+newmtl -x
+Kd 1 1 1
+d 0
+
+newmtl -y
+Kd 1 1 1
+d 0
+
+newmtl z
+Kd 1 1 1
+d 0
+
+newmtl y
+Kd 1 1 1
+d 0
+
+newmtl -z
+Kd 1 1 1
+d 0
+
